@@ -1,0 +1,8 @@
+# Existing Repository Requirements
+langchain=0.0.316
+openai=0.28.1
+pandas
+chromadb
+shutil
+pydantic
+numpy
